@@ -1,4 +1,12 @@
 *.ipynb
 .virt
-/data/bp_monitor_images/*
-/data/bp_monitor_images/**/
+*.txt
+*.jpg
+*.png
+*.py
+*.json
+*.xml
+
+!ocr_vlm.py
+!settings.py
+!utils.py
