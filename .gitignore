@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .env
 *.ipynb
 .virt
@@ -12,3 +13,9 @@
 !settings.py
 !utils.py
 .venv
+=======
+*.ipynb
+.virt
+/data/bp_monitor_images/*
+/data/bp_monitor_images/**/
+>>>>>>> origin/ocr
