@@ -1,5 +1,5 @@
 
-from groq import Groq
+from c import Groq
 import os
 from config import settings
 
