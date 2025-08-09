@@ -1,0 +1,4 @@
+*.ipynb
+.virt
+/data/bp_monitor_images/*
+/data/bp_monitor_images/**/
