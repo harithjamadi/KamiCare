@@ -1,8 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import PractitionerPage from "../components/PractitionerPage";
-import PatientPage from "../components/PatientPage";
+import PractitionerPage from "../pages/practitioner/index";
+import PatientPage from "../pages/patient/index";
 
 export default function HomePage() {
   const [currentView, setCurrentView] = useState<"practitioner" | "patient">(
